@@ -2,4 +2,4 @@
 
 ### BankBinaryClassify
 
-Use classification models to identify if customers will subscribe to a term deposit. 
+Build binary classification models to predict if customers will subscribe to a term deposit. 
